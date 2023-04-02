@@ -1,5 +1,5 @@
 body{
-    background-image:url(images/Port.jpg);
+    background-image:url(/images/Port.jpg);
     
     
     background-color:#49c5b6;
@@ -117,7 +117,7 @@ display :inline;
 #showcase {
     
     
-    background-image:url(images/cleanl.jpg);
+    background-image:url(/images/cleanl.jpg);
     
     background-position:center right;
     
